@@ -4,7 +4,7 @@
 # Objective
 
 
-This innovative system leverages the power of MediaPipe and OpenCV to recognize hand gestures and use them to open and control various applications. By integrating machine learning and computer vision techniques, it interprets specific hand gestures captured through a webcam and translates them into commands to open web pages or desktop applications.
+This project captures hand gestures via a webcam, interprets them using MediaPipe's advanced hand-tracking capabilities, and translates these gestures into commands to launch web pages or desktop applications. 
 
 # Key Features:
 
