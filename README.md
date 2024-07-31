@@ -9,6 +9,7 @@ This innovative system leverages the power of MediaPipe and OpenCV to recognize 
 # Key Features:
 
 Real-Time Hand Gesture Recognition: Utilizes MediaPipe's state-of-the-art hand tracking capabilities to detect and interpret hand gestures in real time.
+
 Customizable Application Launcher: Maps specific hand gestures to different web pages or desktop applications, making it a versatile tool for various use cases.
 
 Smooth User Experience: Ensures a seamless interaction with a user-friendly interface and quick response time.
